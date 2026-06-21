@@ -4,6 +4,10 @@ A Python script that logs in to LinkedIn, extracts detailed profile information,
 
 <img width="1918" height="1009" alt="image" src="https://github.com/user-attachments/assets/f3d405d7-8434-47aa-9255-3ef51833989f" />
 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Playwright](https://img.shields.io/badge/Playwright-Automation-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 Log in to your LinkedIn account manually. This hybrid approach leverages a legitimate authenticated browser session, improving reliability and reducing the likelihood of triggering automated anti-bot protections.
 
 ## Features
