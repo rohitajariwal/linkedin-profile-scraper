@@ -29,7 +29,7 @@ playwright install chromium
 
 ```bash
 git clone https://github.com/rohitajariwal/linkedin-profile-scraper.git
-cd linkedin-profile-scraper
+cd linkedin-profile-scraper-main
 pip install -r requirements.txt
 playwright install chromium
 ```
