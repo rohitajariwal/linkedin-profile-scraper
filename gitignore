@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated outputs
+linkedin_profile.json
+linkedin_profile.tex
+linkedin_profile.pdf
+linkedin_profile_debug.html
+*.log
+*.aux
+*.out
+*.toc
+
+# OS
+.DS_Store
+Thumbs.db
