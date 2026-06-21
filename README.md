@@ -28,8 +28,8 @@ playwright install chromium
 ## Setup
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/rohitajariwal/linkedin-profile-scraper.git
+cd linkedin-profile-scraper
 pip install -r requirements.txt
 playwright install chromium
 ```
