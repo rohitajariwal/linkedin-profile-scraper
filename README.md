@@ -2,6 +2,8 @@
 
 A Python script that logs in to LinkedIn, extracts detailed profile information, and generates structured output in JSON and LaTeX/PDF format.
 
+<img width="1918" height="1009" alt="image" src="https://github.com/user-attachments/assets/f3d405d7-8434-47aa-9255-3ef51833989f" />
+
 ## Features
 
 - Extracts profile header details: name, headline, and location
